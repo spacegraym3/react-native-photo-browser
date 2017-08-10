@@ -26,7 +26,9 @@
   "homepage": "https://github.com/halilb/react-native-photo-browser#readme",
   "dependencies": {
     "prop-types": "15.5.10",
-    "react-native-fast-image": "git+https://github.com/DylanVann/react-native-fast-image.git",
     "react-native-progress": "^3.2.0"
+  },
+  "devDependencies": {
+    "react-native-fast-image": "git+https://github.com/DylanVann/react-native-fast-image.git"
   }
 }
